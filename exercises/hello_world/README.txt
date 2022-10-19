@@ -1,0 +1,1 @@
+installing Rust, testing in Visual Stuido Code, checking how it works and some basic command lines to build/run project
